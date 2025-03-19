@@ -23,5 +23,6 @@ function calcular(n1,n2){
 }
    
 
-let n1 = parseFloat(prompt("Digite seu primeiro numero:"));
-let n2 = parseFloat(prompt("Digite seu segundo numero:"));
+// let n1 = parseFloat(prompt("Digite seu primeiro numero:"));
+// let n2 = parseFloat(prompt("Digite seu segundo numero:"));
+ // calcular(n1,n2);
